@@ -1,0 +1,43 @@
+#fondo{background-color: #ADB1DE}
+
+#cab{
+  background-color: red;
+  font-size: 20px;
+  font-family: arial;
+  float: right;}
+.imgu{
+  float: right;
+}
+#titu{
+  font-size: 30px;
+  font-family: raleway;
+  background-color: blue;
+  color: red;
+}
+#titc{
+  font-size: 30px;
+  font-family: raleway;
+  background-color: white;
+  color: black;
+  margin-right: 1350px;
+}
+#jugador{
+  font-size: 20px;
+  font-family: raleway;
+  color: black
+}
+#titulo{
+  font-size: 50px;
+  font-family: raleway;
+  background-color: yellow;
+}
+#subtitulo{
+  font-size: 30px;
+  font-family: raleway;
+  background-color: yellow;
+}
+#subsubtitulo{
+  font-size: 15px;
+  font-family: raleway;
+  background-color: yellow;
+}
