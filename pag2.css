@@ -19,7 +19,7 @@
   font-family: raleway;
   background-color: white;
   color: black;
-  margin-right: 1350px;
+  margin-right: 1400px;
 }
 #jugador{
   font-size: 20px;
@@ -40,4 +40,7 @@
   font-size: 15px;
   font-family: raleway;
   background-color: yellow;
+}
+#imgc{
+
 }
